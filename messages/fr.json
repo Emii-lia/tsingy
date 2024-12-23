@@ -1,0 +1,165 @@
+{
+  "Hero": {
+    "welcome": "Bienvenu à",
+    "preposition": "de",
+    "p": "Explorer la merveille du parc national avec ses structures geologique unique et ses faunes et flores endémiques",
+    "button": "Faire un tour",
+    "1h3": "Espèce endémiques",
+    "2h3": "Visites par an",
+    "h1": "1er",
+    "3h3": "Meilleur de Madagascar",
+    "menu": {
+      "home": "Accueil",
+      "about": "A propos",
+      "event": "Evenement",
+      "nature": "Nature",
+      "todo": "A faire",
+      "activities": "Activités",
+      "topAttractions": "Meilleures Attractions",
+      "getInTouch": "Communication",
+      "feedback": "Avis",
+      "contact": "Contact",
+      "wonder": "Gallerie"
+    }
+  },
+  "About": {
+    "title": "A propos",
+    "text": "La réserve naturelle intégrale du Tsingy de Bemaraha est une aire protégée de l'Ouest de Madagascar située dans la région du Melaky et inscrite depuis 1990 sur la liste du patrimoine culturel mondial de l'UNESCO1. Elle se trouve au nord du parc national du Tsingy de Bemaraha, créé en 1997 à partir de la réserve naturelle intégrale. ",
+    "header2":"Ouverture",
+    "time": "07:00-18:00",
+    "days": "Lundi à Dimanche",
+    "header3":"Prix d'entrée",
+    "adult": "par adulte",
+    "link": "voir plus",
+    "guide": "avec guide",
+    "kid": "par enfant et",
+    "to": "à"
+  },
+  "Wonder": {
+    "title": "Meilleures attractions",
+    "cards": {
+      "0": {
+        "title": "Reserve Naturel Strict du Tsingy de Bemaraha",
+        "subtitle": "Zones Naturels et Sauvages",
+        "description": "The amazing landscapes of limestone pinnacles, gorges and pristine forests protect many rare birds, lemurs and reptiles."
+      },
+      "1": {
+        "title": "Rivière de Tsiribihina",
+        "subtitle": "Plans d'eau",
+        "description": "Guided tours through Madagascar's diverse landscapes, with river excursions, wildlife encounters, and local culture immersion via traditional pirogue and zebu "
+      },"2": {
+        "title": "Rivière de Manambolo",
+        "subtitle": "Plans d'eau",
+        "description": "The amazing landscapes of limestone pinnacles, gorges and pristine forests protect many rare birds, lemurs and reptiles."
+      },
+      "button":{
+        "map": "Voir carte",
+        "pictures":"Voir photos"
+      }
+    }
+  },
+  "Nature": {
+    "title": "Nature",
+    "card": {
+      "button": "Voir galerie"
+    }
+  },
+  "Activity": {
+    "title": "Activité",
+    "list": {
+      "1": {
+        "title": "Tour Tsingy 4 Jours",
+        "description": "Shooting"
+      },
+      "2": {
+        "title": "Descente de Tsiribihina et visite du parc Tsingy de Bemaraha",
+        "description": "Tours de plusieurs jours"
+      },
+      "3": {
+        "title": "Tour Tsingy de Bemaraha",
+        "description": "Tours de 4SJ"
+      },
+      "4": {
+        "title": "Forêt deKirindy",
+        "description": "Tours de 4SJ"
+      }
+    }
+  },
+  "Event": {
+    "title": "Evenement",
+    "button": {
+      "interested": "Notifiez-moi",
+      "not_interested": "Intéressé(e)"
+    },
+    "dialog": {
+      "title": "Recevoir notification",
+      "description": "Recevez une notification à propos de l'evenement depuis votre email",
+      "placeholder": "Entrez votre email",
+      "button": {
+        "save": "Enregistrer",
+        "trigger": {
+          "interested": "Interessé",
+          "not_interested": "Me Notifier"
+        }
+      }
+    }
+  },
+  "Gallery": {
+    "title": "Toutes les photos",
+    "description": "Voyager dans cette merveilleuse place!",
+    "contact": "Contactez-nous"
+  },
+  "Feedback": {
+    "title": "Avis",
+    "form": {
+      "title": "Exprimer votre avis",
+      "description": "Tell us about the experience you had when visiting Tsingy de Bemaraha national park",
+      "description": "Dites-nous sur votre experience quand vous avez visité le parc national de Tsingy de Bemaraha",
+      "email_pl": "Entrer votre email",
+      "content_pl": "Raconter votre experience",
+      "upload": "Ajouter images"
+    },
+    "alert": {
+      "submit": {
+        "submit": "Envoyer",
+        "title": "Soumettre Message",
+        "description": "Etes-vous sûr de vouloir soumettre votre message?",
+        "yes": "Oui",
+        "no": "Non"
+      }
+    }
+  },
+    "Contact":{
+      "title": "Contactez-nous",
+      "description": "Contactez-nous via email pour plus d'information",
+      "email_pl": "Entrer votre email",
+      "content_pl": "Ecrire un message",
+      "submit": "Envoyer",
+      "wonder": "La Merveille",
+      "of": "de",
+      "alert": {
+        "submit": {
+          "submit": "Envoyer",
+          "title": "Soumettre Avis",
+          "description": "Etes-vous sûr de vouloir soumettre votre avis?",
+          "yes": "Oui",
+          "no": "Non"
+        }
+      }
+    },
+    "Footer": {
+      "menu": {
+        "home": "Accueil",
+        "about": "A propos",
+        "event": "Evenement",
+        "nature": "Nature",
+        "todo": "A faire",
+        "getInTouch": "Communication",
+        "wonder": "Gallerie"
+      },
+      "copyright": "Tout droit reservé, developpé par",
+      "terms": "Termes et Conditions",
+      "privacy": "Politique de Confidentialité",
+      "cookies": "Parametres de Cookie"
+    }
+}

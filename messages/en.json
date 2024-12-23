@@ -1,0 +1,164 @@
+{
+  "Hero": {
+    "welcome": "Welcome to",
+    "preposition": "of",
+    "p": "Explore the wonder of the national park with its unique geological structure and endemic fauna and flora",
+    "button": "Take a tour",
+    "1h3": "Endemic species",
+    "2h3": "Visits per year",
+    "h1": "1st",
+    "3h3": "Best of Madagascar",
+    "menu": {
+      "home": "Home",
+      "about": "About",
+      "event": "Event",
+      "nature": "Nature",
+      "todo": "Things to do",
+      "activities": "Activities",
+      "topAttractions": "Top Attractions",
+      "getInTouch": "Communication",
+      "feedback": "Feedback",
+      "contact": "Contact",
+      "wonder": "Gallery"
+    }
+  },
+  "About": {
+    "title": "About",
+    "text": "The Tsingy de Bemaraha National Park is a national park located in northwest Madagascar. It is mainly within the boundaries of Antsalova District, with a small part in the northeast falling within Morafenobe District. The national park centers on two geological formations: the Great Tsingy and the Little Tsingy. Together with the adjacent Tsingy de Bemaraha Strict Nature Reserve, the National Park is a UNESCO World Heritage Site.",
+    "header2":"Schedule",
+    "time": "07:00am-06:00pm",
+    "days": "Monday to Sunday",
+    "header3":"Fees",
+    "adult": "per adult",
+    "guide": "with guide",
+    "kid": "per kid and",
+    "link": "see more",
+    "to": "to"
+  },
+  "Wonder":{
+    "title": "Top attractions",
+    "cards": {
+      "0": {
+        "title": "Tsingy de Bemaraha Strict Nature Reserve",
+        "subtitle": "Nature & Wildlife Area",
+        "description": "The amazing landscapes of limestone pinnacles, gorges and pristine forests protect many rare birds, lemurs and reptiles."
+      },
+      "1": {
+        "title": "Tsiribihina River",
+        "subtitle": "Bodies of Water",
+        "description": "Guided tours through Madagascar's diverse landscapes, with river excursions, wildlife encounters, and local culture immersion via traditional pirogue and zebu "
+      },"2": {
+        "title": "Manambolo River",
+        "subtitle": "Nature & Wildlife Area",
+        "description": "The amazing landscapes of limestone pinnacles, gorges and pristine forests protect many rare birds, lemurs and reptiles."
+      },
+      "button":{
+        "map": "Show map",
+        "pictures":"Show pictures"
+      }
+    }
+  },
+  "Nature": {
+    "title": "Nature",
+    "card": {
+      "button": "View gallery"
+    }
+  },
+  "Activity": {
+    "title": "Activity",
+    "list": {
+      "1": {
+        "title": "Tsingy Tour 4 Days",
+        "description": "Photo Shoots"
+      },
+      "2": {
+        "title": "Descent of the Tsiribihina and visit of the Tsingy de Bemaraha park",
+        "description": "Multi-day Tours"
+      },
+      "3": {
+        "title": "Tsingy of Bemaraha Tour",
+        "description": "4WD Tours"
+      },
+      "4": {
+        "title": "Kirindy Forest",
+        "description": "4WD Tours"
+      }
+    }
+  },
+  "Event": {
+    "title": "Event",
+    "button": {
+      "interested": "Notify me",
+      "not_interested": "Interested"
+    },
+    "dialog": {
+      "title": "Receive notification",
+      "description": "Receive notification of the event from your mailbox",
+      "placeholder": "Enter your email",
+      "button":{
+        "save": "Save",
+        "trigger": {
+          "interested": "Interested",
+          "not_interested": "Notify me"
+        }
+      }
+    }
+  },
+  "Gallery": {
+    "title": "All pictures",
+    "description": "Take a trip to this beautiful place !",
+    "contact": "Contact us"
+  },
+  "Feedback": {
+    "title": "Feedback",
+    "form": {
+      "title": "Send Feedback",
+      "description": "Tell us about the experience you had when visiting Tsingy de Bemaraha national park",
+      "email_pl": "Enter your email",
+      "content_pl": "Write your feedback",
+      "upload": "Add images"
+    },
+    "alert": {
+      "submit": {
+        "submit": "Send",
+        "title": "Submit Feedback",
+        "description": "Are you sure you want to submit your feedback?",
+        "yes": "Yes",
+        "no": "No"
+      }
+    }
+  },
+  "Contact":{
+    "title": "Contact us",
+    "description": "Contact us via email for more information",
+    "email_pl": "Enter your email",
+    "content_pl": "Write a message",
+    "submit": "Send",
+    "wonder": "The Wonder",
+    "of": "of",
+    "alert": {
+      "submit": {
+        "submit": "Send",
+        "title": "Submit Message",
+        "description": "Are you sure you want to submit your message?",
+        "yes": "Yes",
+        "no": "No"
+      }
+    }
+  },
+  "Footer": {
+    "menu": {
+      "home": "Home",
+      "about": "About",
+      "event": "Event",
+      "nature": "Nature",
+      "todo": "Things to do",
+      "getInTouch": "Communication",
+      "wonder": "Gallery"
+    },
+    "copyright": "All rights reserved, developed by",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Settings"
+  }
+}
